@@ -1,16 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**kaiqsou/kaiqsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Oi, o meu nome é Kaique!
+  
+  Sou um estudante iniciante na área de Desenvolvimento de Sistemas e pretendo seguir esse rumo ao conseguir oportunidades para estudar e trabalhar. <br>
+  
+  Estou na reta final do meu Curso Técnico de Desenvolvimento de Sistemas na Etec Comendador João Rays de Barra Bonita/SP, alguns dos meus conhecimentos são: **HTML**, **CSS**, **C#**, **ASP.NET Core 6** e **MySql**
+  
+  Desejo estágios e quaisquer outras oportunidades na área!
+  
+- 📫 **E-mail:** kaiqsouza2004@hotmail.com
+- 📫 **Linkedin:** https://www.linkedin.com/in/kaique-onencio
+- 📱 **Celular:** (14) 9114-4192
