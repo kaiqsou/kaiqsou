@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-  Oi, o meu nome é Kaique!
+  Oi, o meu nome é Kaique! 👋
   
   Sou um estudante iniciante na área de Desenvolvimento de Sistemas e pretendo seguir esse rumo ao conseguir oportunidades para estudar e trabalhar. <br>
   
