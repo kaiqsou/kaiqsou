@@ -4,9 +4,9 @@
 
   Oi, o meu nome é Kaique! 👋
   
-  Sou um estudante iniciante na área de Desenvolvimento de Sistemas e pretendo seguir esse rumo ao conseguir oportunidades para estudar e trabalhar. <br>
+  Sou um estudante iniciante na área de TI e pretendo seguir esse rumo ao conseguir oportunidades para estudar e trabalhar. <br>
   
-  Tenho um Curso Técnico de Desenvolvimento de Sistemas finalizado em 2023 na Etec Comendador João Rays de Barra Bonita/SP, alguns dos meus conhecimentos são: **HTML**, **CSS**, **C#**, **ASP.NET Core 6** e **MySql**
+  Tenho um Curso Técnico de Desenvolvimento de Sistemas finalizado em 2023 na Etec Comendador João Rays de Barra Bonita/SP e atualmente estou realizando curso superior de Desenvolvimento de Software Multiplataforma na Fatec de Jaú/SP. Alguns dos meus conhecimentos são: **HTML**, **CSS**, **C#**, **ASP.NET Core 6** e **MySql**
   
   Desejo estágios e quaisquer outras oportunidades na área!
   
