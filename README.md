@@ -15,3 +15,8 @@
 - 📫 **E-mail:** kaiqsouza2004@hotmail.com
 - 📫 **Linkedin:** https://www.linkedin.com/in/kaique-onencio
 - 📱 **Celular:** (14) 9114-4192
+
+<p align='center'>
+ <img src='https://streak-stats.demolab.com?user=kaiqsou&theme=darcula&hide_border=false&mode=weekly&card_width=500'/>                                                                                                          
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaiqsou&layout=compact&langs_count=10&theme=darcula&border_radius=10&card_width=500" height="200em"/>  
+</p>
